@@ -1,0 +1,57 @@
+.big-boy {
+    display: flex; /* Use flexbox to align items */
+    align-items: center; /* Center items vertically */
+    background-color: orange; /* this is the background colour */
+    border-radius: 10px; /* this makes the edges round */
+    padding: 2px; /* this is the space around the words */
+    margin-bottom: 90px; /* this is the gap between the heading and the next heading */
+}
+
+/* Write a descriptive comment here rather than each line */
+.big-boy-text {
+    margin-top: 20px;
+    font-size: 80px; /* this makes the text bigger */
+    text-align: center; /* this makes the text align along the page */
+    margin-left: 250px; /* Add some space between the button and the text */
+    background-color: aqua;
+}
+
+/*  */
+.second-heading {
+    font-size: 50px;
+    background-color: rgb(236, 253, 2);
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    margin-bottom: 90px;
+}
+
+/*  */
+.info {
+    font-size: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 10px;
+    width: 700px;
+}
+
+/*  */
+.img {
+    margin-right: 250px;
+    float: right;
+}
+
+/*  */
+.img2 {
+    margin-right: 600px;
+    float: right;
+}
+
+/* This styles the 'How to Start' button positions it */
+.howtostart {
+    align-items: center;
+    margin-left:200px;
+    width:150px;
+    height:50px;
+
+}
